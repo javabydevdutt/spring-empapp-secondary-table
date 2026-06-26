@@ -20,4 +20,4 @@ Notes:-
      (that is, @Table(name="..."))
 6. To change the Primary key column name in the Sec. table, use code:
    pkJoinCoulmns=@PrimarykeyJoinColumn(name="colName")
-   **** It is  optional
+   **** It is  optional ****
